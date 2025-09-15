@@ -1,16 +1,40 @@
-# arrm_app
+# ARRm App
 
-A new Flutter project.
+A Flutter app to help users manage accounting, GST, and invoices efficiently.
 
-## Getting Started
+## What the App Does
+ARRm App allows users to:  
+- Calculate GST, income tax, and other financial metrics  
+- Generate invoices and recurring bills  
+- Track monthly income, expenses, and profits  
+- View visual summaries with charts and graphs  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies / APIs Used
+- **Flutter**: Cross-platform UI framework  
+- **Dart**: Programming language  
+- **MockAI API**: Used for generating sample data  
+- **Firebase** (optional): Authentication and database  
+- Additional Flutter packages:  
+  - `provider` for state management  
+  - `cloud_firestore` for database  
+  - `flutter_staggered_animations` for UI animations  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/vksuthar-coder/accounting_app.git
+
+
+
+cd arrm_app
+
+
+flutter pub get
+
+
+
+flutter run
