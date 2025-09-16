@@ -15,7 +15,7 @@ ARRm App allows users to:
 - **Flutter**: Cross-platform UI framework  
 - **Dart**: Programming language  
 - **MockAI API**: Used for generating sample data  
-- **Firebase** (optional): Authentication and database  
+- **Firebase** : Authentication and database  
 - Additional Flutter packages:  
   - `provider` for state management  
   - `cloud_firestore` for database  
